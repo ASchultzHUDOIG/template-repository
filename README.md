@@ -14,6 +14,8 @@ https://www.makeareadme.com/
 
 A repository template for generating new projects on the CIGIE Shared Services on GitHub platform.
 
+## Important
+
 **After going through the information outlined in this README file please replace it with your project's content.**
 
 ## Template Structure
