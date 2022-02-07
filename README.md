@@ -16,24 +16,26 @@ A repository template for generating new projects on the CIGIE Shared Services o
 
 Most of the template files are stored under the `.github` directory. The template repository includes:
 
-- `ISSUE_TEMPLATE`
-- `PULL_REQUEST_TEMPLATE`
-- `workflows`
-- `ACKNOWLEDGEMENTS.md`
-- `AUTHORS.md`
-- `CHANGELOG.md`
-- `CODE_OF_CONDUCT.md`
-- `CODEOWNERS`
-- `CONTRIBUTING.md`
-- `LICENSE`
-- `README.md`
-- `SECURITY.md`
-- `STYLE_GUIDE.md`
-- `SUPPORT.md`
-- `.gitignore`
+- [`ISSUE_TEMPLATE`](https://github.com/cigie-shared-services/template-repository/tree/main/.github/ISSUE_TEMPLATE)
+- [`PULL_REQUEST_TEMPLATE`](https://github.com/cigie-shared-services/template-repository/tree/main/.github/PULL_REQUEST_TEMPLATE)
+- [`workflows`](https://github.com/cigie-shared-services/template-repository/tree/main/.github/workflows)
+- [`ACKNOWLEDGEMENTS.md`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/ACKNOWLEDGEMENTS.md)
+- [`AUTHORS.md`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/AUTHORS.md)
+- [`CHANGELOG.md`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/CHANGELOG.md)
+- [`CODE_OF_CONDUCT.md`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/CODE_OF_CONDUCT.md)
+- [`CODEOWNERS`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/CODEOWNERS)
+- [`CONTRIBUTING.md`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/CONTRIBUTING.md)
+- [`LICENSE`](https://github.com/cigie-shared-services/template-repository/blob/main/LICENSE)
+- [`README.md`](https://github.com/cigie-shared-services/template-repository/blob/main/README.md)
+- [`SECURITY.md`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/SECURITY.md)
+- [`STYLE_GUIDE.md`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/STYLE_GUIDE.md)
+- [`SUPPORT.md`](https://github.com/cigie-shared-services/template-repository/blob/main/.github/SUPPORT.md)
+- [`.gitignore`](https://github.com/cigie-shared-services/template-repository/blob/main/.gitignore)
 
 These files should be included in every project. It is up to the project owner(s) to determine
-the content and the level of detail that each of these files include.
+the content and the level of detail that each of these files include. Each Markdown (`.md`) file
+provided by this repository contains resources that are visibile when the `Raw` button is selected
+for a given file but hidden when displayed on the webpage.
 
 After a project is generated with this template the following activities are recommended but may not always apply:
 
