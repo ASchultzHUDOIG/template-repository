@@ -14,6 +14,10 @@ https://www.makeareadme.com/
 
 A repository template for generating new projects on the CIGIE Shared Services on GitHub platform.
 
+**After going through the information outlined in this README file please replace it with your project's content.**
+
+## Template Structure
+
 Most of the template files are stored under the `.github` directory. The template repository includes:
 
 - [`ISSUE_TEMPLATE`](https://github.com/cigie-shared-services/template-repository/tree/main/.github/ISSUE_TEMPLATE)
@@ -36,6 +40,8 @@ These files should be included in every project. It is up to the project owner(s
 the content and the level of detail that each of these files include. Each Markdown (`.md`) file
 provided by this repository contains resources that are visibile when the `Raw` button is selected
 for a given file but hidden when displayed on the webpage.
+
+## Recommendations
 
 After a project is generated with this template the following activities are recommended but may not always apply:
 
